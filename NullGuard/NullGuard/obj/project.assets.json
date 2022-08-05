@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\src\\C#\\NullGuard\\NullGuard\\NullGuard.csproj",
+      "projectUniqueName": "C:\\src\\C#\\NullGuard-Fody\\NullGuard\\NullGuard\\NullGuard.csproj",
       "projectName": "NullGuard",
-      "projectPath": "C:\\src\\C#\\NullGuard\\NullGuard\\NullGuard.csproj",
+      "projectPath": "C:\\src\\C#\\NullGuard-Fody\\NullGuard\\NullGuard\\NullGuard.csproj",
       "packagesPath": "C:\\Users\\mtanure\\.nuget\\packages\\",
-      "outputPath": "C:\\src\\C#\\NullGuard\\NullGuard\\obj\\",
+      "outputPath": "C:\\src\\C#\\NullGuard-Fody\\NullGuard\\NullGuard\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

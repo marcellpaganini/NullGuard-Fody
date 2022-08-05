@@ -1,0 +1,15 @@
+C:\src\C#\NullGuard-Fody\NullGuard\NullGuard\obj\Debug\net6.0\NullGuard.csproj.AssemblyReference.cache
+C:\src\C#\NullGuard-Fody\NullGuard\NullGuard\obj\Debug\net6.0\NullGuard.GeneratedMSBuildEditorConfig.editorconfig
+C:\src\C#\NullGuard-Fody\NullGuard\NullGuard\obj\Debug\net6.0\NullGuard.AssemblyInfoInputs.cache
+C:\src\C#\NullGuard-Fody\NullGuard\NullGuard\obj\Debug\net6.0\NullGuard.AssemblyInfo.cs
+C:\src\C#\NullGuard-Fody\NullGuard\NullGuard\obj\Debug\net6.0\NullGuard.csproj.CoreCompileInputs.cache
+C:\src\C#\NullGuard-Fody\NullGuard\NullGuard\bin\Debug\net6.0\NullGuard.exe
+C:\src\C#\NullGuard-Fody\NullGuard\NullGuard\bin\Debug\net6.0\NullGuard.deps.json
+C:\src\C#\NullGuard-Fody\NullGuard\NullGuard\bin\Debug\net6.0\NullGuard.runtimeconfig.json
+C:\src\C#\NullGuard-Fody\NullGuard\NullGuard\bin\Debug\net6.0\NullGuard.dll
+C:\src\C#\NullGuard-Fody\NullGuard\NullGuard\bin\Debug\net6.0\NullGuard.pdb
+C:\src\C#\NullGuard-Fody\NullGuard\NullGuard\obj\Debug\net6.0\NullGuard.dll
+C:\src\C#\NullGuard-Fody\NullGuard\NullGuard\obj\Debug\net6.0\refint\NullGuard.dll
+C:\src\C#\NullGuard-Fody\NullGuard\NullGuard\obj\Debug\net6.0\NullGuard.pdb
+C:\src\C#\NullGuard-Fody\NullGuard\NullGuard\obj\Debug\net6.0\NullGuard.genruntimeconfig.cache
+C:\src\C#\NullGuard-Fody\NullGuard\NullGuard\obj\Debug\net6.0\ref\NullGuard.dll

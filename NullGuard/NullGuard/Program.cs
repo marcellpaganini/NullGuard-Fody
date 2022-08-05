@@ -1,2 +1,4 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿using NullGuard;
+
+Person? person = Person.GetById(4);
+Console.WriteLine($"{person!.Name}");

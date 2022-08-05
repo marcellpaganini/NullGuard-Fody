@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "LYS/zR83MYHIpmljrlPwq8RLQJZTwdcJ6enZxH5QhWHkBDHcRhB9cIOTMRBHAsiPzNx4H6KOKYFOTlIQnGGXZg==",
+  "dgSpecHash": "XvYvh/kMWgfcHSsrtSZpmSVERCf+6YvEfQ2eqC/96KKlofJlhKqo+u4dygYhdH+y38ThY/nJwTVzf1q4fc175Q==",
   "success": true,
-  "projectFilePath": "C:\\src\\C#\\NullGuard\\NullGuard\\NullGuard.csproj",
+  "projectFilePath": "C:\\src\\C#\\NullGuard-Fody\\NullGuard\\NullGuard\\NullGuard.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
